@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceitoBasicoCSharp", "ConceitoBasicoCSharp\ConceitoBasicoCSharp.csproj", "{D2C91D03-FFFB-447E-AA64-EC674288DA14}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controleConta", "controleConta\controleConta.csproj", "{AEC528AD-BCC3-494B-B8B2-CC8C4B3E8498}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controleContaTests", "controleContaTests\controleContaTests.csproj", "{62E10D04-986F-4E7F-8EC3-F215C366F39A}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D2C91D03-FFFB-447E-AA64-EC674288DA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2C91D03-FFFB-447E-AA64-EC674288DA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2C91D03-FFFB-447E-AA64-EC674288DA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2C91D03-FFFB-447E-AA64-EC674288DA14}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AEC528AD-BCC3-494B-B8B2-CC8C4B3E8498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AEC528AD-BCC3-494B-B8B2-CC8C4B3E8498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEC528AD-BCC3-494B-B8B2-CC8C4B3E8498}.Release|Any CPU.ActiveCfg = Release|Any CPU
